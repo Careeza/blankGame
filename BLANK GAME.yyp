@@ -41,6 +41,7 @@
     {"id":{"name":"rm_room2","path":"rooms/rm_room2/rm_room2.yy",},},
     {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},},
     {"id":{"name":"rm_character_stats","path":"rooms/rm_character_stats/rm_character_stats.yy",},},
+    {"id":{"name":"rm_character_overall9","path":"rooms/rm_character_overall9/rm_character_overall9.yy",},},
     {"id":{"name":"rm_character_items","path":"rooms/rm_character_items/rm_character_items.yy",},},
     {"id":{"name":"rm_character_personnalization","path":"rooms/rm_character_personnalization/rm_character_personnalization.yy",},},
     {"id":{"name":"rm_character_overall","path":"rooms/rm_character_overall/rm_character_overall.yy",},},
@@ -59,6 +60,7 @@
     {"roomId":{"name":"rm_character_items","path":"rooms/rm_character_items/rm_character_items.yy",},},
     {"roomId":{"name":"rm_character_selection","path":"rooms/rm_character_selection/rm_character_selection.yy",},},
     {"roomId":{"name":"rm_character_personnalization","path":"rooms/rm_character_personnalization/rm_character_personnalization.yy",},},
+    {"roomId":{"name":"rm_character_overall9","path":"rooms/rm_character_overall9/rm_character_overall9.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [
