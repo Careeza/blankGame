@@ -20,7 +20,6 @@
     {"name":"myFont","order":16,"path":"fonts/myFont/myFont.yy",},
     {"name":"oButtonQuit","order":20,"path":"objects/oButtonQuit/oButtonQuit.yy",},
     {"name":"rm_character_tree","order":4,"path":"rooms/rm_character_tree/rm_character_tree.yy",},
-    {"name":"rm_character_overall9","order":8,"path":"rooms/rm_character_overall9/rm_character_overall9.yy",},
     {"name":"rm_room2","order":1,"path":"rooms/rm_room2/rm_room2.yy",},
     {"name":"Font1","order":15,"path":"fonts/Font1/Font1.yy",},
     {"name":"rm_character_stats","order":3,"path":"rooms/rm_character_stats/rm_character_stats.yy",},
