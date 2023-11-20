@@ -23,7 +23,6 @@
     {"name":"rm_room2","order":1,"path":"rooms/rm_room2/rm_room2.yy",},
     {"name":"Font1","order":15,"path":"fonts/Font1/Font1.yy",},
     {"name":"rm_character_stats","order":3,"path":"rooms/rm_character_stats/rm_character_stats.yy",},
-    {"name":"rm_character_overall9","order":8,"path":"rooms/rm_character_overall9/rm_character_overall9.yy",},
     {"name":"rm_character_items","order":5,"path":"rooms/rm_character_items/rm_character_items.yy",},
     {"name":"rm_character_personnalization","order":7,"path":"rooms/rm_character_personnalization/rm_character_personnalization.yy",},
     {"name":"rm_character_overall","order":2,"path":"rooms/rm_character_overall/rm_character_overall.yy",},
